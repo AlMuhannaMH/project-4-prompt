@@ -4,16 +4,16 @@
 
 ## Overview:
 
-For your 4th project, you'll have the choice of building a **MERN** stack app or a **Rails + React** app. Use your imagination! You get to create whatever you want for this app. You can even use **React Native** for your project.
+For your 4th project, you'll have the choice of building a **MERN** stack app or a **Rails API + React** app. Use your imagination! You get to create whatever you want for this app. You can even use **React Native** for your project.
 
-Though, you'll need to run your user stories, wireframes, and database design by your
+Though, you'll need to run your user stories, wireframes, and ERD's by your
 instructors to get their feedback and approval before you begin coding! Remember
 to keep things small and focus on mastering the fundamentals – scope
 creep/feature creep is the biggest pitfall for any project!
 
 Identify what you need to build and accomplish to meet project expectations and
 identify everything else as stretch goals. If you meet your MVP (Minimum Viable
-Product) ahead of schedule, you can decide which reach goals to focus on for the
+Product) ahead of schedule, you can decide which remaining goals to focus on for the
 remainder of your time.
 
 **You will be working as a team or individual for this project**, everyone must contribute if on a team. If 1 person does not contribute or 1 person does all the work then the entire team will fail the project requirements. If you pair program then please include the other persons github name in the commit.
@@ -46,10 +46,10 @@ By the time you submit this project, you will have covered new ground in, and re
 
 ## Requirements
 
-- **Build a full stack web application**.  Must be your own work.
+- **Build a full stack web application**. Must be your own work.
 - **Select a Project Idea of your own**.
-- Have at _least_ 2 models (more if makes sense)
-    - Auth is **NOT** a requirement
+- Have at _least_ 2 models (more if it makes sense)
+  - Auth is **NOT** a requirement
 - Have full CRUD on at _least_ one of your models
 - Be able to Add/Delete on any remaining models
 - Have high quality code:
@@ -58,20 +58,19 @@ By the time you submit this project, you will have covered new ground in, and re
     - Well-structured and readable code
     - Semantic naming of variables, functions, CSS classes, etc.
     - Short and clear functions that _do one thing_
-    - Efficient code- if you have your MVP, refactor
+    - Efficient code - if you have your MVP, refactor
     - DRY (Don't Repeat Yourself) code
 - **Use technology stack templates**.  You may choose which tech stack.
-  - [Rails Template](https://github.com/wdi-red-coral/rails-template)
-  - [Rails API Template](https://github.com/sei-eternity/rails-api-template) with [React Template](https://github.com/sei-eternity/react-template)
-  - [Express API Template](https://github.com/sei-eternity/express-api-template) with [React Template](https://github.com/sei-eternity/react-template)
+  - [Rails API Template](https://github.com/sei-relativity/rails-api-template) with [React Template](https://github.com/sei-relativity/react-template)
+  - [Express API Template](https://github.com/sei-relativity/express-api-template) with [React Template](https://github.com/sei-relativity/react-template)
 - Be deployed on Heroku
 - **Craft a `README.md` file that explains your app**.
 
 ### Necessary Deliverables
 
-Projects are due **Thursday, 12/09 at 10am**!  
+Projects are due **Thursday, 19/12 at 10am**!  
 
-Submissions will be submitted by posting into slack
+Submissions will be submitted by posting into a Google Sheet
 - a link to your deployed application 
 - a link to your github repository
 
@@ -91,14 +90,14 @@ The presentation must be a **5-10 minute presentation** in which you answer the 
 - Mobile Responsive
 - High quality, professional design
 - Redux
-- Automated Tests Using Jest / Rails
+- Automated Tests Using Jest / RSpec or MiniTest for Rails
 
 ---
 
 ### Tips
 
 - Do not do file upload, use image URLs and add file upload after the program when you have more time.
-- Build a feature on the back end, then on the front end.  Then deploy.  And then move on to the next feature.
+- Build a feature on the back end, then on the front end. Then deploy. And then move on to the next feature.
 
 ---
 
