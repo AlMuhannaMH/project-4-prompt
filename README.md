@@ -18,6 +18,20 @@ remainder of your time.
 
 **You will be working as a team or individual for this project**, everyone must contribute if on a team. If 1 person does not contribute or 1 person does all the work then the entire team will fail the project requirements. If you pair program then please include the other persons GitHub name in the commit.
 
+## What should you build?
+
+Here are a few areas and themes you could look into for your ideas. Especially if you're going to be building something that will help the world with COVID-19. We're suggesting the below seven themes to help spark your ideas. But you're not limited to them, feel free to think outside the box too! Don't forget to think globally and not only locally.
+
+But remember, your project does not have to be about the Coronavirus at all. **It could be about anything!**
+
+- **Health:** Address and scale a range of health initiatives, including preventative/hygiene behaviors (especially for at-risk countries and populations), supporting frontline health workers, scaling telemedicine, contact tracing/containment strategies, treatment and diagnosis development.
+- **Vulnerable Populations:** Problems faced by the groups of people who are disproportionately affected by the various health, economic, and social issues related to the COVID outbreak around the world, such as those with underlying health conditions or a thin social safety net.
+- **Businesses:** The set of problems that businesses are facing to stay afloat, collaborate effectively, and move parts of their business online.
+- **Community:** Promoting connection to friends, family, and neighbors to combat social isolation and the digitizing of public services for local governments.
+- **Education:** Alternative learning environments and tools for students, teachers, and entire school systems.
+- **Entertainment:** Alternatives to traditional forms of entertainment that can keep the talent and audiences safe and healthy.
+- **Other:** The above themes are just suggestions. Feel empowered to get creative!
+
 ## What You've Learned
 
 By the time you submit this project, you will have covered new ground in, and reviewed, many of the big themes of the course so far:
