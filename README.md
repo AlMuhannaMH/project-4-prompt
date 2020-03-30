@@ -4,7 +4,7 @@
 
 ## Overview:
 
-For your 4th project, you'll have the choice of building a **MERN** stack app or a **Rails API + React** app. Use your imagination! You get to create whatever you want for this app. You can even use **React Native** for your project.
+For your 4th project, you'll have the choice of building a **Rails** full-stack app, **Rails API + React** app or a **MERN** stack app. Use your imagination! You get to create whatever you want for this app. You can even use **React Native** for your project.
 
 Though, you'll need to run your user stories, wireframes, and ERD's by your
 instructors to get their feedback and approval before you begin coding! Remember
@@ -16,7 +16,7 @@ identify everything else as stretch goals. If you meet your MVP (Minimum Viable
 Product) ahead of schedule, you can decide which remaining goals to focus on for the
 remainder of your time.
 
-**You will be working as a team or individual for this project**, everyone must contribute if on a team. If 1 person does not contribute or 1 person does all the work then the entire team will fail the project requirements. If you pair program then please include the other persons github name in the commit.
+**You will be working as a team or individual for this project**, everyone must contribute if on a team. If 1 person does not contribute or 1 person does all the work then the entire team will fail the project requirements. If you pair program then please include the other persons GitHub name in the commit.
 
 ## What You've Learned
 
@@ -61,14 +61,15 @@ By the time you submit this project, you will have covered new ground in, and re
     - Efficient code - if you have your MVP, refactor
     - DRY (Don't Repeat Yourself) code
 - **Use technology stack templates**.  You may choose which tech stack.
-  - [Rails API Template](https://github.com/sei-relativity/rails-api-template) with [React Template](https://github.com/sei-relativity/react-template)
-  - [Express API Template](https://github.com/sei-relativity/express-api-template) with [React Template](https://github.com/sei-relativity/react-template)
+  - Full-Stack Rails App
+  - [Rails API Template](https://github.com/sei-entropy/rails-api-template) with [React Template](https://github.com/sei-entropy/react-template)
+  - [Express API Template](https://github.com/sei-entropy/express-api-template) with [React Template](https://github.com/sei-entropy/react-template)
 - Be deployed on Heroku
 - **Craft a `README.md` file that explains your app**.
 
 ### Necessary Deliverables
 
-Projects are due **Thursday, 19/12 at 10am**!  
+Projects are due **Thursday, 09/04 at 09am**!  
 
 Submissions will be submitted by posting into a Google Sheet
 - a link to your deployed application 
@@ -83,7 +84,11 @@ The presentation must be a **5-10 minute presentation** in which you answer the 
   - What was the most difficult part of the project?
   - What was your favorite part of the project
   - What would your team like to add next?
-  
+
+**The presentation can be made by submitting a pre-recoded video presentation.**
+
+**[See the details on how to make and submit a video presentation](video-presentation-guide.md).**
+
 ### Stretch Goals
 
 - Use a 3rd party API 
